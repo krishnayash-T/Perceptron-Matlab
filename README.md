@@ -1,2 +1,2 @@
 # Perceptron-Matlab
-Single Layer Perceptron
+Simple Perceptron using Matlab
